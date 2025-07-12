@@ -1,0 +1,7 @@
+{
+  "id": "dynamicserver",
+  "name": "DynamicServer",
+  "version": "1.0",
+  "main": "fr.roguire.dynamicServer.DynamicServer",
+  "authors": ["Roguire14"]
+}
